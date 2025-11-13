@@ -1,2 +1,28 @@
-# Toothpick-Sequence-Show
-This Python code allows to visualize the stages of the Toothpick Sequence and to save any of them as a picture.
+# Toothpick Sequence Showroom
+This repository contains a Python program that visualizes the Toothpick Sequence, a fascinating fractal structure that grows according to simple rules. The project was coded by Arthur Stammet in November 2025.
+# About the Toothpick Sequence
+The sequence begins with a single toothpick segment. At each iteration, new segments are added perpendicular to the free ends of the existing ones. If an endpoint is touched by more than one segment, it becomes blocked and no further growth occurs there. From these simple rules emerges a surprisingly intricate and symmetric fractal pattern.
+# Features
+Correct end-rule implementation (no overlapping growth at blocked ends)
+Vertical starting toothpick
+Interactive controls:
+  +  Plus / Minus keys or mousewheel to increment/decrement iterations
+  +  Number keys [1]–[9] to jump directly to a specific iteration
+  +  A key to autosave the current image in the working folder (3× pixel size)
+  +  S key to open a dialog and choose file name/path for saving
+  +  Bottom text showing the current number of toothpicks
+  +  Separate info window with credits and usage instructions
+# Requirements
++ Python 3.9+
++ matplotlib
++ tkinter (usually included with Python on most systems)
+
+Install dependencies with: 
+pip install matplotlib
+
+# Usage
+Clone the repository and run the script: python ToothpickSeq_Show.py
+
+A window will open showing the Toothpick Sequence. Use the keyboard and/or mouse controls to explore the iterations interactively. The info window provides guidance and credits.
+# License
+This project is released under the MIT License. Feel free to use, modify, and share.
