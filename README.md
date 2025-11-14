@@ -6,6 +6,8 @@ A series of pictures, showing the stages 1 to 256, is published in my SmugMug Ga
 The sequence begins with a single toothpick segment. At each iteration, new segments are added perpendicular to the free ends of the existing ones. If an endpoint is touched by more than one segment, it becomes blocked and no further growth occurs there. From these simple rules emerges a surprisingly intricate and symmetric fractal pattern.
 
 The stages 2, 4, 8, 16... show entirely filled squares containing the Toothpick pattern. They are tagged in my SmugMug Gallery.
+
+A really interesting Numberfile Video about the sequence can be seen on Youtube: https://www.youtube.com/watch?v=_UtCli1SgjI
 # Features
 Vertical starting toothpick.
 Interactive controls:
