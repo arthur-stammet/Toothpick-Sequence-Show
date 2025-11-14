@@ -17,10 +17,7 @@ A really interesting Numberfile Video about the sequence can be seen on Youtube:
   - **`S` key** to open a dialog and choose file name/path for saving  
 - Bottom text showing the current number of toothpicks
 - Separate info window with credits and usage instructions
-# Usage
-Clone the repository and run the script: python ToothpickSeq_Show.py
 
-A window will open showing the Toothpick Sequence. Use the keyboard and/or mouse controls to explore the iterations interactively. The info window provides guidance and credits.
 # License
 This project is released under the MIT License. Feel free to use, modify, and share.
 # Requirements
