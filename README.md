@@ -1,5 +1,6 @@
 # Toothpick Sequence Showroom
 This repository contains a Python program that visualizes the Toothpick Sequence, a fascinating fractal structure that grows according to simple rules. The project was coded by Arthur Stammet in November 2025.
+
 A series of pictures, showing the stages 1 to 256, is published in my SugMug Gallery https://stammet-petit.smugmug.com/Arthurs-Creations/Research/Toothpick-Sequence
 # About the Toothpick Sequence
 The sequence begins with a single toothpick segment. At each iteration, new segments are added perpendicular to the free ends of the existing ones. If an endpoint is touched by more than one segment, it becomes blocked and no further growth occurs there. From these simple rules emerges a surprisingly intricate and symmetric fractal pattern.
