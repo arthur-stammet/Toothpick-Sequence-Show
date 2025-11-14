@@ -9,14 +9,14 @@ The stages 2, 4, 8, 16... show entirely filled squares containing the Toothpick 
 
 A really interesting Numberfile Video about the sequence can be seen on Youtube: https://www.youtube.com/watch?v=_UtCli1SgjI
 # Features
-Vertical starting toothpick.
-Interactive controls:
-  +  Plus / Minus keys or mousewheel to increment/decrement iterations
-  +  Number keys [1]–[9] to jump directly to a specific iteration
-  +  A key to autosave the current image in the working folder (3× pixel size)
-  +  S key to open a dialog and choose file name/path for saving
-  +  Bottom text showing the current number of toothpicks
-  +  Separate info window with credits and usage instructions
+- Vertical starting toothpick.
+- Interactive controls:
+  - **`+` / `-` keys** or **mousewheel** to increment/decrement iterations  
+  - **Number keys [1]–[9]** to jump directly to a specific iteration  
+  - **`A` key** to autosave the current image in the working folder (3× pixel size, spaces in filename)  
+  - **`S` key** to open a dialog and choose file name/path for saving  
+- Bottom text showing the current number of toothpicks
+- Separate info window with credits and usage instructions
 # Requirements
 + Python 3.9+
 + matplotlib
