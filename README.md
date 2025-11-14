@@ -27,6 +27,7 @@ This project is released under the MIT License. Feel free to use, modify, and sh
 + Python 3.9+
 + matplotlib
 + tkinter (usually included with Python on most systems)
+
 Install dependencies with:
 ```bash
 pip install matplotlib
